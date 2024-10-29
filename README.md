@@ -5,11 +5,9 @@
 ### Procedure
 
 To solve this task, do the following:
-- Fork this repository on you personal GitHub account;
-- Open a draft pull request to this repository's "main" branch;
+- Fork this repository on you personal GitHub account or clone it and change it locally;
   - Run the code snippets in `mod1/notebook.ipynb` and answer the questions made there.
-- When you're done, mark the pull request as ready for review and notify the department leader;
-- Your work will be reviewed directly on the pull request.
+- When you're done, send a zip file of the repository to the department leader's email;
 
 ### Requirements
 
