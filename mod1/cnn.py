@@ -36,6 +36,6 @@ class CNN(nn.Module):
         x = F.relu(self.fc1(x))
         x = F.relu(self.fc2(x))
         
-        # Output layer (no activation function, we will be returning the raw scores)
+        # returning the raw scores of this one (may use some CrossEntropyLoss after that..)
         x = self.fc3(x)
         return x
